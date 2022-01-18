@@ -1,0 +1,107 @@
+<section>
+
+    <div id="dtDynamicVerticalScrollExample_wrapper" class="dataTables_wrapper dt-bootstrap4"><div class="row"><div class="col-sm-12 col-md-6"></div><div class="col-sm-12 col-md-6"><div id="dtDynamicVerticalScrollExample_filter" class="dataTables_filter"><label><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cari:</font></font><input type="search" class="form-control form-control-sm" placeholder="" aria-controls="dtDynamicVerticalScrollExample"></label></div></div></div><div class="row"><div class="col-sm-12"><div class="dataTables_scroll"><div class="dataTables_scrollHead" style="overflow: hidden; position: relative; border: 0px; width: 100%;"><div class="dataTables_scrollHeadInner" style="box-sizing: content-box; width: 718px; padding-right: 17px;"><table class="table table-striped table-bordered table-sm dataTable" cellspacing="0" width="100%" role="grid" style="margin-left: 0px; width: 718px;"><thead>
+        <tr role="row"><th class="th-sm sorting_asc" tabindex="0" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 122px;" aria-sort="ascending" aria-label="Nama: aktifkan untuk mengurutkan kolom menurun"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nama
+          </font></font></th><th class="th-sm sorting" tabindex="0" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 207px;" aria-label="Posisi: aktifkan untuk mengurutkan kolom ke atas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Posisi
+          </font></font></th><th class="th-sm sorting" tabindex="0" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 100px;" aria-label="Kantor: aktifkan untuk mengurutkan kolom ke atas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kantor
+          </font></font></th><th class="th-sm sorting" tabindex="0" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 96px;" aria-label="Umur: aktifkan untuk mengurutkan kolom menaik"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Usia
+          </font></font></th><th class="th-sm sorting" tabindex="0" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 96px;" aria-label="Tanggal mulai: aktifkan untuk mengurutkan kolom ke atas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mulai tanggal
+          </font></font></th><th class="th-sm sorting" tabindex="0" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 96px;" aria-label="Gaji: aktifkan untuk mengurutkan kolom naik"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gaji
+          </font></font></th></tr>
+      </thead></table></div></div><div class="dataTables_scrollBody" style="position: relative; overflow: auto; max-height: 20vh; width: 100%;"><table id="dtDynamicVerticalScrollExample" class="table table-striped table-bordered table-sm dataTable" cellspacing="0" width="100%" role="grid" aria-describedby="dtDynamicVerticalScrollExample_info" style="width: 100%;"><thead>
+        <tr role="row" style="height: 0px;"><th class="th-sm sorting_asc" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 122px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-sort="ascending" aria-label="Nama: aktifkan untuk mengurutkan kolom menurun"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nama
+          </font></font></font></font></div></th><th class="th-sm sorting" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 207px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Posisi: aktifkan untuk mengurutkan kolom ke atas"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Posisi
+          </font></font></font></font></div></th><th class="th-sm sorting" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 100px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Kantor: aktifkan untuk mengurutkan kolom ke atas"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kantor
+          </font></font></font></font></div></th><th class="th-sm sorting" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 96px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Umur: aktifkan untuk mengurutkan kolom menaik"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Usia
+          </font></font></font></font></div></th><th class="th-sm sorting" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 96px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Tanggal mulai: aktifkan untuk mengurutkan kolom ke atas"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mulai tanggal
+          </font></font></font></font></div></th><th class="th-sm sorting" aria-controls="dtDynamicVerticalScrollExample" rowspan="1" colspan="1" style="width: 96px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Gaji: aktifkan untuk mengurutkan kolom naik"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gaji
+          </font></font></font></font></div></th></tr>
+      </thead><tfoot>
+        <tr style="height: 0px;"><th rowspan="1" colspan="1" style="padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px; width: 122px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nama
+          </font></font></font></font></div></th><th rowspan="1" colspan="1" style="padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px; width: 207px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Posisi
+          </font></font></font></font></div></th><th rowspan="1" colspan="1" style="padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px; width: 100px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kantor
+          </font></font></font></font></div></th><th rowspan="1" colspan="1" style="padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px; width: 96px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Usia
+          </font></font></font></font></div></th><th rowspan="1" colspan="1" style="padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px; width: 96px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mulai tanggal
+          </font></font></font></font></div></th><th rowspan="1" colspan="1" style="padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px; width: 96px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gaji
+          </font></font></font></font></div></th></tr>
+      </tfoot>
+      
+      <tbody>
+        
+        
+        
+        
+        
+        
+        
+        
+      <tr role="row" class="odd">
+          <td class="sorting_1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Airi Satou</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Akuntan</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tokyo</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">33</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2008/11/28</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">$ 162.700</font></font></td>
+        </tr><tr role="row" class="even">
+          <td class="sorting_1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ashton Cox</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Penulis Teknis Junior</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">San Fransisco</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">66</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2009/01/12</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">$ 86,000</font></font></td>
+        </tr><tr role="row" class="odd">
+          <td class="sorting_1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Brielle Williamson</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Spesialis Integrasi</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">New York</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">61</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2012/12/02</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">$ 372,000</font></font></td>
+        </tr><tr role="row" class="even">
+          <td class="sorting_1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cedric Kelly</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pengembang Javascript Senior</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Edinburgh</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">22</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2012/03/29</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">$ 433.060</font></font></td>
+        </tr><tr role="row" class="odd">
+          <td class="sorting_1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garrett Winters</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Akuntan</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tokyo</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">63</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2011/07/25</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">$ 170.750</font></font></td>
+        </tr><tr role="row" class="even">
+          <td class="sorting_1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Herrod Chandler</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Asisten penjualan</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">San Fransisco</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">59</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2012/08/06</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">$ 137.500</font></font></td>
+        </tr><tr role="row" class="odd">
+          <td class="sorting_1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rhona Davidson</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Spesialis Integrasi</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tokyo</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">55</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2010/10/14</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">$ 327.900</font></font></td>
+        </tr><tr role="row" class="even">
+          <td class="sorting_1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tiger Nixon</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Arsitek Sistem</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Edinburgh</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">61</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2011/04/25</font></font></td>
+          <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">$ 320.800</font></font></td>
+        </tr></tbody>
+      
+    </table></div><div class="dataTables_scrollFoot" style="overflow: hidden; border: 0px; width: 100%;"><div class="dataTables_scrollFootInner" style="width: 718px; padding-right: 17px;"><table class="table table-striped table-bordered table-sm dataTable" cellspacing="0" width="100%" role="grid" style="margin-left: 0px; width: 718px;"><tfoot>
+        <tr><th rowspan="1" colspan="1" style="width: 122px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nama
+          </font></font></th><th rowspan="1" colspan="1" style="width: 207px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Posisi
+          </font></font></th><th rowspan="1" colspan="1" style="width: 100px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kantor
+          </font></font></th><th rowspan="1" colspan="1" style="width: 96px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Usia
+          </font></font></th><th rowspan="1" colspan="1" style="width: 96px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mulai tanggal
+          </font></font></th><th rowspan="1" colspan="1" style="width: 96px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gaji
+          </font></font></th></tr>
+      </tfoot></table></div></div></div></div></div><div class="row"><div class="col-sm-12 col-md-5"><div class="dataTables_info" id="dtDynamicVerticalScrollExample_info" role="status" aria-live="polite"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Menampilkan 1 sampai 8 dari 8 entri</font></font></div></div><div class="col-sm-12 col-md-7"></div></div></div>
+
+
+  </section>
